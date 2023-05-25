@@ -84,3 +84,14 @@ body {
     font-size: 28px;
     margin-top: -3px;
 }
+.weather{
+    display: none;
+}
+.error{
+    text-align: left;
+    margin-left: 14px;
+    font-size: 14px;
+    margin-top: 10px;
+    color: red;
+    display: none;
+}
