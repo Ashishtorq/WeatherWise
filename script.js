@@ -22,7 +22,7 @@ async function checkweather(city) {
     document.querySelector(".weather").style.display = "none";
   } else {
     var data = await response.json();
-    //console.log(data);
+    
 
     document.querySelector(".city").innerHTML = data.name;
 
