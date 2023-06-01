@@ -85,7 +85,8 @@ body {
     margin-top: -3px;
 }
 .weather{
-    display: none;
+    /* display: none; */
+
 }
 .error{
     text-align: left;
